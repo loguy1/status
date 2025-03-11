@@ -1,7 +1,7 @@
 url: https://vrchat.com
-status: up
-code: 200
-responseTime: 334
-lastUpdated: 2025-03-10T23:16:48.204Z
+status: down
+code: 503
+responseTime: 100
+lastUpdated: 2025-03-11T15:56:16.589Z
 startTime: 2024-12-12T16:14:35.714Z
 generator: Upptime <https://github.com/upptime/upptime>
