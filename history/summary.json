@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 94,
-    "timeWeek": 103,
-    "timeMonth": 105,
-    "timeYear": 110,
-    "dailyMinutesDown": {}
+    "time": 112,
+    "timeDay": 341,
+    "timeWeek": 161,
+    "timeMonth": 120,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2025-06-13": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 65,
-    "timeWeek": 277,
+    "time": 180,
+    "timeDay": 518,
+    "timeWeek": 302,
     "timeMonth": 186,
-    "timeYear": 178,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 381,
-    "timeWeek": 681,
-    "timeMonth": 395,
-    "timeYear": 328,
+    "time": 327,
+    "timeDay": 173,
+    "timeWeek": 666,
+    "timeMonth": 397,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 380,
-    "timeDay": 278,
-    "timeWeek": 412,
+    "time": 381,
+    "timeDay": 527,
+    "timeWeek": 437,
     "timeMonth": 407,
-    "timeYear": 380,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2025-05-15": 9,
       "2025-03-11": 26
