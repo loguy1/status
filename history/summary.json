@@ -13,7 +13,7 @@
     "time": 112,
     "timeDay": 128,
     "timeWeek": 92,
-    "timeMonth": 135,
+    "timeMonth": 133,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2025-12-13": 46,
@@ -40,7 +40,7 @@
     "time": 189,
     "timeDay": 422,
     "timeWeek": 272,
-    "timeMonth": 206,
+    "timeMonth": 203,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "time": 319,
     "timeDay": 360,
     "timeWeek": 335,
-    "timeMonth": 295,
+    "timeMonth": 298,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2025-07-10": 9
@@ -107,12 +107,12 @@
     "slug": "site-vr-chat",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "92.68%",
+    "uptimeDay": "93.37%",
     "uptimeWeek": "97.70%",
-    "uptimeMonth": "98.02%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "99.58%",
     "time": 373,
-    "timeDay": 324,
+    "timeDay": 353,
     "timeWeek": 297,
     "timeMonth": 316,
     "timeYear": 372,
