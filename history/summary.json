@@ -106,18 +106,19 @@
     "url": "https://vrchat.com",
     "icon": "https://icons.duckduckgo.com/ip3/vrchat.com.ico",
     "slug": "site-vr-chat",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "99.59%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "99.60%",
     "time": 372,
-    "timeDay": 394,
-    "timeWeek": 349,
+    "timeDay": 330,
+    "timeWeek": 344,
     "timeMonth": 316,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2026-01-06": 0,
       "2026-01-05": 16,
       "2026-01-03": 30,
       "2026-01-01": 13,
@@ -177,7 +178,7 @@
       "2025-07-25": 92,
       "2025-07-24": 13,
       "2025-07-23": 27,
-      "2025-07-22": 85
+      "2025-07-22": 23
     }
   }
 ]
